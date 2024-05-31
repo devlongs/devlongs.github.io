@@ -9,7 +9,7 @@
 I am a dedicated software engineer specializing in the Ethereum stack and backend development.
 
 <b>Professional Focus</b><br /><br />
-- Protocol-Level Engineering: I work extensively on go-ethereum, enhancing blockchain functionality and integrating new features to improve overall performance and scalability.
+- Protocol-level Engineering: I work extensively on go-ethereum, enhancing blockchain functionality and integrating new features to improve overall performance and scalability.
 - Backend Services: I design and implement fast, reliable backend services tailored for blockchain applications. My services ensure seamless interaction between blockchain networks and end-users.
 - Smart Contract Development: I write smart contracts using Solidity, enabling decentralized applications (dApps) to run securely and efficiently on the Ethereum blockchain.
 - API Development: I create production-ready APIs that facilitate smooth communication between different components of blockchain ecosystems. My APIs are designed to be highly reliable and performant.
